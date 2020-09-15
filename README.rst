@@ -2,7 +2,7 @@ A SageMath-based computing environment for binder
 =================================================
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/sagemath/sage-binder-env/jupyterhub?filepath=index.ipynb
+ :target: https://mybinder.org/v2/gh/yacchin1205/sage-binder-env/jupyterhub?filepath=index.ipynb
 
 This repository illustrates Binder use cases for
 `SageMath <http://sagemath.org>`_.
